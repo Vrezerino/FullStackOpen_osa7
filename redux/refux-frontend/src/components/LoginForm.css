@@ -1,0 +1,8 @@
+.loginForm {
+	background-color: rgb(214, 144, 93);
+	border-radius: 7px;
+	width: inherit;
+	max-width: 500px;
+	display: flex;
+	justify-content: center;
+}

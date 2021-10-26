@@ -1,0 +1,25 @@
+div.container {
+	margin: 0% auto;
+	width: 240px;
+}
+
+h2 {
+	color: goldenrod;
+	text-shadow: rgb(83, 40, 10) 2px 1px;
+	text-align: center;
+}
+
+button {
+	margin-left: 4px;
+	background-color: gold;
+	border-style: hidden;
+	border-radius: 8px;
+}
+
+form input {
+	margin: 0px 0px 0.1em 0px;
+}
+
+form input::placeholder {
+	color: rgb(184, 158, 13);
+}

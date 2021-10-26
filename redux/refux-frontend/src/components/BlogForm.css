@@ -1,0 +1,14 @@
+.blogForm {
+	background-color: goldenrod;
+	border-radius: 7px;
+	width: 70%;
+	max-width: 500px;
+	text-align: center;
+	margin: 3px auto auto auto;
+	display: flex;
+	justify-content: center;
+}
+
+button.toggleForm {
+	margin-top: 1em;
+}

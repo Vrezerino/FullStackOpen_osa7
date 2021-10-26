@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best feature ever",
+      "id": 2
+    }
+  ],
+  "people": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Patrick",
+      "number": "045-2100144",
+      "id": 3
+    }
+  ]
+}

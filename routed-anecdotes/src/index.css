@@ -1,0 +1,37 @@
+a {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div.menu {
+	margin: 0;
+}
+
+div.notif {
+	color: green;
+	font-weight: bold;
+	border: 1;
+}
+
+div.container {
+ width: 70%;
+ margin: 0 auto;
+}
+
+.anecdoteForm {
+	font-size: small;
+}
+
+.anecdoteForm button {
+	margin: 0.5em 0 0 0;
+	background-color: rgb(203, 248, 248);
+}
+
+footer {
+	margin-top: 1em;
+	font-style: italic;
+}

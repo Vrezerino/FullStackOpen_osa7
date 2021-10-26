@@ -1,0 +1,70 @@
+body {
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+	color:rgb(117, 0, 0);
+	text-decoration: none;
+}
+
+a:hover {
+	color:tomato;
+	text-decoration: underline;
+}
+
+h5 {
+	margin: 0.3em;
+}
+
+div.container {
+	max-width: 500px;
+	margin: auto;
+}
+
+div.nav {
+	text-align: center;
+}
+
+div.user, div.userList {
+	text-align: center;
+}
+
+div.userList table {
+	margin: 0 auto;
+}
+
+div.userList thead, div.comments {
+	font-size: smaller;
+}
+
+div.userList tbody {
+	font-weight: bold;
+}
+
+div.userList td {
+	padding: 0px 1em 0px 1em;
+	border-radius: 5px;
+	border-style:dotted;
+	border-width: 1px;
+	border-color: tomato;
+}
+
+section {
+	text-align: center;
+}
+
+div.currentUser {
+	color:tomato;
+	font-style: italic;
+	font-size: smaller;
+	margin-bottom: 1em;
+}
+
+.logoutBtn {
+	margin: auto;
+}
+
+input {
+	border-radius: 9px;
+	border-style: hidden;
+}
